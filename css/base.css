@@ -1,0 +1,12 @@
+.corpo{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#msg{
+	color: red;	
+}
+
+.icon {
+	width: 15px;
+}
